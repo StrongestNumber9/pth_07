@@ -14,7 +14,7 @@
  * GNU Affero General Public License for more details.
  *
  * You should have received a copy of the GNU Affero General Public License
- * along with this program.  If not, see <https://github.com/teragrep/teragrep/blob/main/LICENSE>.
+ * along with this program.  If not, see <https://github.com/StrongestNumber9/StrongestNumber9/blob/main/LICENSE>.
  *
  *
  * Additional permission under GNU Affero General Public License version 3
@@ -65,9 +65,9 @@
     <teragrep.jue_01.version>0.4.3</teragrep.jue_01.version>        
   </properties>
   <scm>
-    <connection>scm:git:https://github.com/teragrep/pth_07.git</connection>
-    <developerConnection>scm:git:git@github.com:teragrep/pth_07.git</developerConnection>
-    <url>https://github.com/teragrep/pth_07/tree/master</url>
+    <connection>scm:git:https://github.com/StrongestNumber9/pth_07.git</connection>
+    <developerConnection>scm:git:git@github.com:StrongestNumber9/pth_07.git</developerConnection>
+    <url>https://github.com/StrongestNumber9/pth_07/tree/master</url>
   </scm>
   <dependencies>
     <dependency>
@@ -438,7 +438,7 @@
         <repository>
           <id>github</id>
           <name>GitHub Packages</name>
-          <url>https://maven.pkg.github.com/teragrep/pth_07</url>
+          <url>https://maven.pkg.github.com/StrongestNumber9/pth_07</url>
         </repository>
       </distributionManagement>
     </profile>
